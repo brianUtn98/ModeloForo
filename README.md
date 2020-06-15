@@ -5,7 +5,7 @@ En este foro vamos a manejar consultas prácticas para la materia Paradigmas de 
 
 ## Utilización
 
-Cuando tengas una duda, primero buscá en los [**issues cerrados**](https://github.com/brianUtn98/ModeloForo/issues?q=is%3Aissue+is%3Aclosed) a ver si en alguno tu consulta ya está respondida. ¡La idea del foro es que una duda tuya, puede ser la duda de alguien más! Si tenés una duda, y ninguno de los issues cerrados te la resuelven, fijate en los [**issues abiertos**](https://github.com/brianUtn98/ModeloForo/issues?q=is%3Aopen+is%3Aissue) a ver si alguien lo preguntó antes que vos y está esperando por la respuesta. (Podés suscribirte a esa pregunta para que Github te avise si alguien responde con el botón suscribe).
+Cuando tengas una duda, primero buscá en los [**issues cerrados**](https://github.com/brianUtn98/ModeloForo/issues?q=is%3Aissue+is%3Aclosed) a ver si fue respondida antes. ¡La idea del foro es que una duda tuya, puede ser la duda de alguien más! Si ninguno de los issues cerrados te la resuelven, fijate en los [**issues abiertos**](https://github.com/brianUtn98/ModeloForo/issues?q=is%3Aopen+is%3Aissue) a ver si alguien lo preguntó antes que vos y está esperando por la respuesta. (Podés suscribirte a ese issue para que Github te avise si alguien responde con el botón suscribe).
 - <img src="suscribe.png">
 Si nada del foro responde tu consulta, o es muy específica, podes abrir un nuevo issue describiendo detalladamente tu duda/problema, y esperar a que te respondamos.
 - <img src="newissue.png">
