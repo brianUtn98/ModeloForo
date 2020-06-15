@@ -16,3 +16,8 @@ Procurá que la información sea clara y detallada, y en caso de hacer mensión 
 * ¿Estás preparandote para el parcial? Podés practicar con los [**parciales**](http://www.pdep.com.ar/material/parciales) y [**finales**](http://www.pdep.com.ar/material/finales) que la cátedra tiene subidos a su página. Algunos están resueltos.
 * Si queres repasar el uso de algunas herramientas, y algunos temas específicos de la materia, fijate si encontras algo en los [**videos**](http://www.pdep.com.ar/material/videos) subidos.
 * Visitá a nuestro querido [**mumuki**](https://mumuki.io/pdep-utn/chapters/435-programacion-funcional)
+
+### Contacto:
+* Vale: vpennella@gmail.com
+* Andres: vskrzyniecki@est.frba.utn.edu.ar
+* Brian: brian.gmonroy98@gmail.com
